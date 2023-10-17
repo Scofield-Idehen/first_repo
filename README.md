@@ -1,2 +1,2 @@
-# first_repo
-This repo stores the program dictionary and i am creating it with python language 
+##Python Dictionary
+*This program is about building a dictionary with python and we will be using the following to build a program.
